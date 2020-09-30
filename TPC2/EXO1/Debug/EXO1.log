@@ -1,0 +1,9 @@
+﻿  boucle.c
+C:\Users\JACQUES\Documents\ISEN 3 (CSI 3)\INFORMATIQUE\1er SEMESTRE\TP\TPC2\EXO1\boucle.c(23,46): error C2143: erreur de syntaxe : absence de ';' avant '/'
+C:\Users\JACQUES\Documents\ISEN 3 (CSI 3)\INFORMATIQUE\1er SEMESTRE\TP\TPC2\EXO1\boucle.c(29,2): error C2059: erreur de syntaxe : 'while'
+C:\Users\JACQUES\Documents\ISEN 3 (CSI 3)\INFORMATIQUE\1er SEMESTRE\TP\TPC2\EXO1\boucle.c(31,9): error C2143: erreur de syntaxe : absence de ')' avant 'chaîne'
+C:\Users\JACQUES\Documents\ISEN 3 (CSI 3)\INFORMATIQUE\1er SEMESTRE\TP\TPC2\EXO1\boucle.c(31,9): error C2143: erreur de syntaxe : absence de '{' avant 'chaîne'
+C:\Users\JACQUES\Documents\ISEN 3 (CSI 3)\INFORMATIQUE\1er SEMESTRE\TP\TPC2\EXO1\boucle.c(31,9): error C2059: erreur de syntaxe : 'chaîne'
+C:\Users\JACQUES\Documents\ISEN 3 (CSI 3)\INFORMATIQUE\1er SEMESTRE\TP\TPC2\EXO1\boucle.c(31,41): error C2059: erreur de syntaxe : ')'
+C:\Users\JACQUES\Documents\ISEN 3 (CSI 3)\INFORMATIQUE\1er SEMESTRE\TP\TPC2\EXO1\boucle.c(33,2): error C2059: erreur de syntaxe : 'return'
+C:\Users\JACQUES\Documents\ISEN 3 (CSI 3)\INFORMATIQUE\1er SEMESTRE\TP\TPC2\EXO1\boucle.c(34,1): error C2059: erreur de syntaxe : '}'
